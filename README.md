@@ -10,6 +10,7 @@ plays an important in any website so concerning it here I design a form for fill
 - Basically, there are 3 pages where 1 page is for basic authentication with username = 'admin' and password = "123".(page name=home.php) after that 
 - CV_Form.php page for filling out the details with basic data sanitization.
 - Then the last page Welcome.php for just showing out the output 
+- style.css is just for better UI nothing to do with PHP.
 
 All these pages mostly use session, cookie,post methods, and some validation which I think you should take a look for basic understanding.
 
