@@ -6,7 +6,7 @@ Inside the file, you will see lots of code if you are a newbie, whenever you fin
 My opinion with this tries to refer https://www.w3schools.com/php/default.asp for better understanding.
 
 #### FORM 
-plays an important in any website so concerning it here I design a form for filling your resume detail and show on the next page.
+plays an important in any website so concerning it here I design a form for filling your resume detail and show on the next page with image upload for fun purpose only make sure home.php,CV_form.php,welcome.php and make sure to create image folder(for image) inside same directory where you place other 3 php file
 - Basically, there are 3 pages where 1 page is for basic authentication with username = 'admin' and password = "123".(page name=home.php) after that 
 - CV_Form.php page for filling out the details with basic data sanitization.
 - Then the last page Welcome.php for just showing out the output 
